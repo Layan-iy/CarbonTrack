@@ -1,0 +1,82 @@
+/* Appliquer un fond avec une couleur agréable et un dégradé léger */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #f0f8ff, #e6e6fa);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    height: auto;
+    background-image: url('Background_image.webp'); /* Chemin de l'image */
+    background-size: cover;  /* Ajuste l'image pour couvrir tout l'écran */
+    background-position: center;  /* Centre l'image */
+    background-attachment: fixed; /* Fixe l'image en arrière-plan */
+    background-repeat: no-repeat; /* Évite la répétition de l'image */
+}
+
+/* Conteneur principal pour centrer et ajouter du padding */
+.container {
+    background: rgba(255, 255, 255, 0.9); /* Fond blanc avec opacité */
+    padding: 20px;
+    border-radius: 10px; /* Coins arrondis */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Légère ombre */
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Style des titres */
+h1 {
+    color: #2E8B57;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    color: #3CB371;
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Style des formulaires et des labels */
+form {
+    margin-top: 1em;
+}
+
+label {
+    font-weight: bold;
+}
+
+select, input[type="number"], input[type="submit"] {
+    margin-top: 0.5em;
+    padding: 10px;
+    font-size: 1em;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+
+/* Style du bouton de soumission */
+input[type="submit"] {
+    background: #2E8B57;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background: #3CB371;
+}
+
+/* Style de la section résultat */
+#resultat {
+    margin-top: 20px;
+    padding: 10px;
+    background: #e0ffe0;
+    border: 1px solid #3CB371;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
