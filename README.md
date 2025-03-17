@@ -1,3 +1,36 @@
+# ENGLISH
+
+## CarbonTrack
+
+### Description
+**CarbonTrack** is an interactive web application designed to calculate the carbon footprint of fruit and vegetable consumption based on weight, as well as the footprint of transportation modes based on distance traveled. This project aims to raise awareness of the environmental impact of daily consumption habits.
+
+The application offers:
+- An estimation of the **CO₂e** footprint for the production of a given weight of fruits and vegetables.
+- A calculation of the carbon footprint for **various modes of transport** based on the distance traveled.
+- A simple and clean interface for easy use.
+
+### Features
+- Select a **fruit or vegetable** and enter the weight in kg to obtain the corresponding carbon footprint.
+- Choose a **mode of transport** and input the distance in km to estimate the **CO₂e** emissions generated.
+- A **modern and responsive** interface with an **eco-themed background**.
+- Results displayed instantly as text.
+
+### 🛠️ Technologies Used
+- **HTML**: Page structure  
+- **CSS**: Layout and design with an **illustrative background**  
+- **JavaScript**: Carbon footprint calculation logic  
+
+### Preview  
+Website link: https://layan-iy.github.io/Consommation-de-carbonne/  
+
+## Ecological Objective  
+This project aims to raise awareness about the **carbon impact** of consumption habits and transportation choices. By providing precise data, it helps individuals better understand the environmental consequences of their daily choices.  
+
+🌱 **Act for a more sustainable world, reduce your carbon footprint!**  
+
+
+# Français
 ## CarbonTrack
 
 ### Description
