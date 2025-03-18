@@ -49,7 +49,7 @@ L'application offre :
 - Interface **moderne et responsive** avec un **fond illustratif** en lien avec l'écologie.
 - Résultats affichés instantanément sous forme de texte.
 
-### 🛠️ Technologies utilisées
+### Technologies utilisées
 - **HTML** : Structure de la page
 - **CSS** : Mise en page et design avec un **background illustratif**
 - **JavaScript** : Logique de calcul de l'empreinte carbone
