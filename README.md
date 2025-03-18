@@ -16,13 +16,13 @@ The application offers:
 - A **modern and responsive** interface with an **eco-themed background**.
 - Results displayed instantly as text.
 
-### 🛠️ Technologies Used
+### 🛠Technologies Used
 - **HTML**: Page structure  
 - **CSS**: Layout and design with an **illustrative background**  
 - **JavaScript**: Carbon footprint calculation logic  
 
 ### Preview  
-Website link: https://layan-iy.github.io/Consommation-de-carbonne/  
+Website link: https://layan-iy.github.io/CarbonTrack/
 
 ## Ecological Objective  
 This project aims to raise awareness about the **carbon impact** of consumption habits and transportation choices. By providing precise data, it helps individuals better understand the environmental consequences of their daily choices.  
@@ -55,7 +55,7 @@ L'application offre :
 - **JavaScript** : Logique de calcul de l'empreinte carbone
 
 ### Aperçu
-Lien vers le site : https://layan-iy.github.io/Consommation-de-carbonne/
+Lien vers le site : https://layan-iy.github.io/CarbonTrack/
 ## Objectif écologique
 Ce projet a pour but de sensibiliser à **l’impact carbone** des habitudes de consommation et des moyens de transport utilisés. Grâce à des données précises, il permet à chacun de mieux comprendre l'impact de ses choix au quotidien.
 
