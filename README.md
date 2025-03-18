@@ -16,7 +16,7 @@ The application offers:
 - A **modern and responsive** interface with an **eco-themed background**.
 - Results displayed instantly as text.
 
-### 🛠Technologies Used
+### Technologies Used
 - **HTML**: Page structure  
 - **CSS**: Layout and design with an **illustrative background**  
 - **JavaScript**: Carbon footprint calculation logic  
